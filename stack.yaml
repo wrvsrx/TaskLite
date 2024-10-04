@@ -27,6 +27,9 @@ flags:
   airgql:
     lib-only: true
 
+nix:
+  packages: [ zlib.dev ]
+
 # Build TaskLite in a container
 # docker:
 #   repo: fpco/stack-build

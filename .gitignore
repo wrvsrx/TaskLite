@@ -3,3 +3,5 @@
 /docs
 /docs-source/images/pattern.jpg
 dist-newstyle
+
+/.direnv
